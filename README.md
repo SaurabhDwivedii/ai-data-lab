@@ -1,6 +1,6 @@
 # 🚀 AI & Machine Learning Repository
 
-Enterprise-focused AI, Machine Learning, and Data Engineering projects built using Python, FastAPI, Azure AI, RAG architectures, and distributed data systems.
+Enterprise-focused AI, Machine Learning, and Data Engineering projects built using Python, FastAPI, Cloud, RAG architectures, and distributed data systems.
 
 ---
 
