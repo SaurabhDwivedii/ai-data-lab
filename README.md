@@ -1,3 +1,6 @@
+<img width="1774" height="887" alt="AI ML" src="https://github.com/user-attachments/assets/67af52f1-2e2c-4b85-b1f4-a26aa81f3998" />
+
+
 # 🚀 AI & Machine Learning Repository
 
 Enterprise-focused AI, Machine Learning, and Data Engineering projects built using Python, FastAPI, Cloud, RAG architectures, and distributed data systems.
