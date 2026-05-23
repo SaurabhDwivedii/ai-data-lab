@@ -1,4 +1,4 @@
-<img width="1774" height="887" alt="AI ML" src="https://github.com/user-attachments/assets/67af52f1-2e2c-4b85-b1f4-a26aa81f3998" />
+<img width="1536" height="1024" alt="AI Data Engineering" src="https://github.com/user-attachments/assets/5495fb1e-e79c-4dc7-b4ae-173597585ef6" />
 
 
 # 🚀 AI & Machine Learning Repository
